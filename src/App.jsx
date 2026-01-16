@@ -51,7 +51,7 @@ export default function App() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
       >
-        <h2>Build calm habits. One day at a time.</h2>
+        <h1>IT'S SACHINS HABITS </h1>
         <p>
           Add your habits, stay consistent, and track your daily progress.
           Simple. Calm. Effective.
